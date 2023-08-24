@@ -11,5 +11,6 @@ para obter as dependências necessárias para o projeto.
 
 # Preview #
 
-![Preview do App](https://i.imgur.com/nGMw98s.jpg)
+<img width="auto" src="https://i.imgur.com/nGMw98s.jpg">
+
 
