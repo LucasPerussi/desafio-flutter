@@ -4,7 +4,7 @@ Consiste em um app com uma ferramenta de c√°lculo de IMC e uma calculadora de m√
 
 Lembre-se de executar 
 
-```Dart
+```dart
   flutter packages get
 ```
 
